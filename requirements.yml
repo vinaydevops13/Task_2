@@ -1,0 +1,3 @@
+- src: https://github.com/vinodhbasavani/Ansible-Nginx-Role.git
+  version: master
+  name: nginx
